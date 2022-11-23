@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "NUXT_HOST=0.0.0.0 nuxt start -p $PORT",
+    "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
