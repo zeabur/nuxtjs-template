@@ -61,7 +61,9 @@
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
           Welcome to your Nuxt Application, Deployed on
-          <a href="https://zeabur.com">Zeabur</a>!
+          <a href="https://zeabur.com" class="text-purple-700 underline"
+            >Zeabur</a
+          >!
         </h2>
         <p class="mt-3 text-gray-600">
           We recommend you take a look at the
@@ -120,6 +122,14 @@
             /></svg
         ></a>
       </div>
+    </div>
+    <div class="bg-black fixed bottom-0 w-screen flex justify-center py-6">
+      <a href="https://zeabur.com">
+        <img
+          src="https://zeabur.com/home/logo-with-text-white.svg"
+          class="h-6"
+        />
+      </a>
     </div>
   </div>
 </template>
