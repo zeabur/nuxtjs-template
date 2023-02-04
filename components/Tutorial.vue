@@ -126,7 +126,7 @@
     <div class="bg-black fixed bottom-0 w-screen flex justify-center py-6">
       <a href="https://zeabur.com">
         <img
-          src="https://zeabur.com/home/logo-with-text-white.svg"
+          src="https://zeabur.com/logo-with-text-white.svg"
           class="h-6"
         />
       </a>
