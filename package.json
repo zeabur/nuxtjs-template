@@ -1,5 +1,5 @@
 {
-  "name": "test-nuxtjs",
+  "name": "zeabur-nuxtjs-template",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -18,5 +18,8 @@
   "devDependencies": {
     "@nuxt/types": "^2.15.8",
     "@nuxt/typescript-build": "^2.1.0"
+  },
+  "engines": {
+    "node": "< 18 || >= 14"
   }
 }
