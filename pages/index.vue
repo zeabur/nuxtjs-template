@@ -1,11 +1,9 @@
-<template>
-  <Tutorial/>
-</template>
-
-<script lang="ts">
-import Vue from 'vue'
-
-export default Vue.extend({
-  name: 'IndexPage'
+<script setup lang="ts">
+useHead({
+  title: "Nuxt deploy on Zeabur",
 })
 </script>
+
+<template>
+  <Zeabur />
+</template>
